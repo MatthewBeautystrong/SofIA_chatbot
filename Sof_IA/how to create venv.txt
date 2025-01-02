@@ -1,0 +1,4 @@
+python venv .venv_tesi
+
+to set venv
+.venv_tesi\Scripts\activate

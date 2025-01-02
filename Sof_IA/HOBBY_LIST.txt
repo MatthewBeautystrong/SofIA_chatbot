@@ -1,0 +1,314 @@
+Lettura
+Scrittura creativa
+Pittura
+Disegno
+Fotografia
+Escursionismo
+Ciclismo
+Corsa
+Nuoto
+Giardinaggio
+Cucina
+Cucito
+Maglia/Uncinetto
+Yoga
+Meditazione
+Suonare uno strumento musicale (es. chitarra, pianoforte)
+Ballare
+Recitazione
+Collezionismo (monete, francobolli, figurine)
+Modellismo
+Lavorazione del legno
+Fai-da-te
+Pesca
+Birdwatching
+Viaggiare
+Videogiochi
+Giochi da tavolo
+Puzzle
+Scacchi
+Apicoltura
+Fotografia astronomica
+Vela
+Windsurf
+Sci
+Snowboard
+Arrampicata
+Artigianato
+Disegno digitale
+Programmazione
+Bricolage
+Automobilismo
+Collezionare vinili
+Bodybuilding
+Parkour
+Skateboarding
+Scrittura di poesie
+Blogging
+Podcasting
+Origami
+Lavorare a maglia
+Ceramica
+Scultura
+Arte
+Calligrafia
+Puzzle 3D
+Lavorazione della pelle
+Intaglio
+Leggere fumetti/manga
+Creare gioielli
+Caccia
+Tennis
+Badminton
+Tennis da tavolo (ping pong)
+Bowling
+Paintball
+Softair
+Allenamento con i pesi
+Surf
+Kitesurfing
+Padel
+Pasticceria
+Degustazione di vini
+Produzione di birra artigianale
+Degustazione di caffè
+Magia/Illusionismo
+Falconeria
+Parkour
+Geocaching
+Fotografia naturalistica
+Stand-up comedy
+Stand-up paddleboarding
+Vlogging
+Grafica 3D
+Cosplay
+Modellismo ferroviario
+Bungee jumping
+Paracadutismo
+Parapendio
+Pirografia (arte della combustione del legno)
+Plogging (corsa mentre raccogli rifiuti)
+Allevamento di animali (es. conigli, cani, gatti)
+Fare volontariato
+Allenatore di animali domestici
+Studio delle lingue straniere
+Ricamo
+Astrologia
+Studio delle arti marziali (Karate, Judo, Taekwondo)
+Kickboxing
+Subacquea
+Speleologia
+Costruzione di modelli in scala (auto, aerei, ecc.)
+Tiro con l'arco
+Equitazione
+Golf
+Pugilato
+Scherma
+Pattinaggio su ghiaccio
+Pattinaggio a rotelle
+Mountain bike
+Canottaggio
+Canoa
+Kayak
+Triathlon
+Pallamano
+Pallavolo
+Rugby
+Cricket
+Calcio
+Basket
+Baseball
+Lacrosse
+Hockey (su ghiaccio e su prato)
+Ballo da sala
+Ballo di coppia
+Valzer
+Tango
+Foxtrot
+Rumba
+Cha-cha-cha
+Salsa
+Bachata
+Merengue
+Samba
+Paso doble
+Kizomba
+Lambada
+Ballo latino caraibico
+Salsa cubana e portoricana
+Bachata (anche fusion e sensual)
+Cumbia
+Reggaeton
+Forró
+Ballo swing
+Ballo jazz
+Lindy hop
+Charleston
+Balboa
+Boogie-woogie
+Jive
+Blues dance
+Street dance
+Hip hop
+Breakdance
+Popping
+Locking
+Krumping
+Waacking
+House dance
+Danza contemporanea
+Danza moderna (Martha Graham, Horton, Cunningham)
+Contact improvisation
+Teatro danza
+Danza classica
+Balletto classico
+Balletto neoclassico
+Balletto romantico
+Danza tradizionale
+Folk
+Flamenco (Spagna)
+Tarantella (Italia)
+Danze popolari (per esempio il sirtaki greco, la polka, ecc.)
+Danza irlandese
+Danza africana
+Danza del ventre (medio-orientale)
+Danze caraibiche e brasiliane come la capoeira
+Danza acrobatica
+Acrobatic rock 'n' roll
+Danza sportiva (ballroom)
+Cheerleading
+Danza teatrale
+Danza di spettacolo
+Musical theatre dance
+Tap dance (tip tap)
+Bollywood dance
+Danza fitness
+Danza di allenamento
+Zumba
+Jazzercise
+Dancehall
+
+Reading
+Creative writing
+Painting
+Drawing
+Photography
+Hiking
+Cycling
+Running
+Swimming
+Gardening
+Cooking
+Sewing
+Knitting/Crocheting
+Yoga
+Meditation
+Playing a musical instrument (e.g., guitar, piano)
+Dancing
+Acting
+Collecting (coins, stamps, cards)
+Model building
+Woodworking
+DIY (Do It Yourself)
+Fishing
+Birdwatching
+Traveling
+Video gaming
+Board games
+Puzzles
+Chess
+Beekeeping
+Astrophotography
+Sailing
+Windsurfing
+Skiing
+Snowboarding
+Rock climbing
+Crafting
+Digital drawing
+Programming
+Handyman work
+Car racing
+Collecting vinyl records
+Bodybuilding
+Parkour
+Skateboarding
+Writing poetry
+Blogging
+Podcasting
+Origami
+Knitting
+Pottery
+Sculpture
+Calligraphy
+3D puzzles
+Leathercrafting
+Carving
+Reading comics/manga
+Jewelry making
+Hunting
+Tennis
+Badminton
+Table tennis (ping pong)
+Bowling
+Paintball
+Airsoft
+Weightlifting
+Surfing
+Kitesurfing
+Padel
+Pastry making
+Wine tasting
+Home brewing (beer)
+Coffee tasting
+Magic/Illusions
+Falconry
+Parkour
+Geocaching
+Wildlife photography
+Stand-up comedy
+Vlogging
+3D graphics design
+Cosplay
+Model train building
+Bungee jumping
+Skydiving
+Paragliding
+Pyrography (woodburning art)
+Plogging (jogging while picking up trash)
+Pet breeding (rabbits, dogs, cats)
+Volunteering
+Pet training
+Learning foreign languages
+Embroidery
+Astrology
+Studying martial arts (Karate, Judo, Taekwondo)
+Kickboxing
+Scuba diving
+Caving (Speleology)
+Scale modeling (cars, planes, etc.)
+Archery
+Horseback riding
+Golf
+Boxing
+Fencing
+Ice skating
+Roller skating
+Mountain biking
+Rowing
+Canoeing
+Kayaking
+Triathlon
+Handball
+Volleyball
+Rugby
+Cricket
+Soccer
+Basket
+Basketball
+Baseball
+Lacrosse
+Hockey (Ice and Field)
+Beach Volley
+Beach Soccer
+Paddle
